@@ -1,0 +1,93 @@
+[
+    {
+        "id_user": 15,
+        "name": "CobaLagi",
+        "username": "qwerta",
+        "email": "cobacoba@gmail.com",
+        "role": "user",
+        "created_at": "2024-12-19T03:50:17.000000Z",
+        "updated_at": "2024-12-19T03:50:17.000000Z"
+    },
+    {
+        "id_user": 16,
+        "name": "Alia",
+        "username": "123@gmail.com",
+        "email": "alia@gmail.com",
+        "role": "admin",
+        "created_at": "2024-12-19T08:45:55.000000Z",
+        "updated_at": "2024-12-19T08:45:55.000000Z"
+    },
+    {
+        "id_user": 17,
+        "name": "coba ah",
+        "username": "qwertyuiop",
+        "email": "cubs@gmail.com",
+        "role": "user",
+        "created_at": "2024-12-19T09:03:40.000000Z",
+        "updated_at": "2024-12-19T09:03:40.000000Z"
+    },
+    {
+        "id_user": 18,
+        "name": "aaaaa",
+        "username": "qwertyuiop12",
+        "email": "aaa@gmail.com",
+        "role": "user",
+        "created_at": "2024-12-19T09:18:18.000000Z",
+        "updated_at": "2024-12-19T09:18:18.000000Z"
+    },
+    {
+        "id_user": 19,
+        "name": "Kulobadetangllet",
+        "username": "awawawa",
+        "email": "weewew@gmail.com",
+        "role": "user",
+        "created_at": "2024-12-19T10:11:09.000000Z",
+        "updated_at": "2024-12-19T10:11:09.000000Z"
+    },
+    {
+        "id_user": 20,
+        "name": "belajarni",
+        "username": "guebelajar",
+        "email": "qwertyuiop3214@gmail.com",
+        "role": "user",
+        "created_at": "2024-12-19T10:57:36.000000Z",
+        "updated_at": "2024-12-19T10:57:36.000000Z"
+    },
+    {
+        "id_user": 21,
+        "name": "jatiyuanamartawibawa",
+        "username": "jyuanwibawa",
+        "email": "qwertyuiop1@gmail.com",
+        "role": "admin",
+        "created_at": "2024-12-19T11:12:10.000000Z",
+        "updated_at": "2024-12-19T11:12:10.000000Z"
+    },
+    {
+        "id_user": 22,
+        "name": "qwertuiop",
+        "username": "aaaaaa",
+        "email": "aaaaa@gmail.com",
+        "role": "user",
+        "created_at": "2024-12-19T11:12:10.000000Z",
+        "updated_at": "2024-12-19T11:12:10.000000Z"
+    },
+    {
+        "id_user": 23,
+        "name": "belajarek",
+        "username": "baca",
+        "email": "bdlajarek@gmail.com",
+        "role": "user",
+        "created_at": "2024-12-19T11:34:58.000000Z",
+        "updated_at": "2024-12-19T11:34:58.000000Z"
+    },
+    {
+        "name": "guejati",
+        "username": "guegue",
+        "email": "gue@gmail.com",
+        "password": "12345678",
+        "role": "user",
+        "created_at": "2024-12-19 22:30:40",
+        "updated_at": "2024-12-19 22:30:40",
+        "id_user": 10
+    }
+]
